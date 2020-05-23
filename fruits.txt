@@ -1,4 +1,6 @@
 laranja
+mandioca
 pera
-banana
+platano
 morangos
+avocado
