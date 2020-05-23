@@ -1,4 +1,5 @@
 - eggs
 - lasanha
 - ensalada rusa
-- chocolate
+- manteca de cohocolate
+- helado de manteca de cacahuete
